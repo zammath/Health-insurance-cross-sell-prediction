@@ -5,7 +5,7 @@ Predict Health Insurance Owners' who will be interested in Vehicle Insurance**
 Your client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the customers from past year will also be interested in Vehicle Insurance provided by the company.
 
 
-feature
+# feature
 
 1 id|int64|Person id
 
@@ -32,7 +32,7 @@ Label
 
  12 Response|int64|Response(0,1)
 
-Data Analysis
+# Data Analysis
 
 1 Find Unwanted Columns
 
@@ -80,7 +80,7 @@ no feature found with one value
 
 id,"Vintage", "Vehicle_Age", "Policy_Sales_Channel","Previously_Insured","Driving_License" are dropped
 
-Conclusion
+# Conclusion
 
 1 Customers of age between 30 to 60 are more likely to buy insurance.
 
